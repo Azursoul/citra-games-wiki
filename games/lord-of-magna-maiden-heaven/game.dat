@@ -1,10 +1,13 @@
 title = "Lord Of Magna: Maiden Heaven"
-description = "by Marvelous, genre: RPG\n\nMagna puts you in the shoes of a humble innkeeper (whose name can be customized at the start), who made a promise to his father to always keep his doors open and be the best proprietor he can be. One day on a standard trip to a cave to gather crystals (a precious resource in this world), he encounters a group of monsters. Fearing death, he retreats to a corner hosting a giant crystal, and summons a magical Spirit Girl named Charlotte (an \"Artemis\")"
+description = "by Marvelous, genre: RPG, Lord of Magna: Maiden Heaven, known as "Forbidden Magna" in Japan, is a tactical role-playing life simulation published by Marvelous. with localization by XSEED for the West. It shares several similarities with the Rune Factory series.
 needs_system_files = true
 needs_shared_font = true
-game_type = "eshop"
+game_type = "eShop/Application"
 
 [[releases]]
 title = "0004000000164300"
 region = "usa"
 release_date = "2015-06-02"
+title = "0004000000165500
+region = "eur"
+release_date = "2015-06-04"
