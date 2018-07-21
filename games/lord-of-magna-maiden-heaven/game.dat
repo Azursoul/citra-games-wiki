@@ -4,11 +4,7 @@ needs_system_files = true
 needs_shared_font = true
 game_type = " "
 
-[[releases]]
+[[release]]
 title = "0004000000164300"
 region = "usa"
 release_date = "2015-06-02"
-
-title = "0004000000165500
-region = "eur"
-release_date = "2015-06-04"
